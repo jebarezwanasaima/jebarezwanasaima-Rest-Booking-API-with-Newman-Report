@@ -10,7 +10,7 @@ This project demonstrates API testing using Postman, providing a collection of t
 - Test scripts for assertions and validations
 
 ## API Documentation:
-- https://documenter.getpostman.com/view/13082503/2sA2xmUAJ1
+- https://documenter.getpostman.com/view/38811429/2sAY55ZdEt
   
 ### **Technology used:**
 - Postman
@@ -26,7 +26,7 @@ This project demonstrates API testing using Postman, providing a collection of t
 1. Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
 2. Clone the repository:
  ```console 
-  git clone https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report.git
+  git clone https://github.com/jebarezwanasaima/jebarezwanasaima-Rest-Booking-API-with-Newman-Report.git
 ```
 3. Import the Postman collection:
     - Open Postman.
@@ -228,11 +228,11 @@ This project demonstrates API testing using Postman, providing a collection of t
 ## Run Command:  
 - Run Command for Console: 
 ```console 
-newman run Ebrahim_Hossain_SQA.postman_collection.json -e Ebrahim_Hossain_SQA.postman_environment.json 
+newman run Jeba_Rezwana_Saima.postman_collection.json -e Jeba_Rezwana_Saima.postman_environment.json 
 ```
 - Run Command for Report: 
 ```console 
-newman run Ebrahim_Hossain_SQA.postman_collection.json -e Ebrahim_Hossain_SQA.postman_environment.json -r cli,htmlextra
+newman run Jeba_Rezwana_Saima.postman_collection.json -e Jeba_Rezwana_Saima.postman_environment.json -r cli,htmlextra
 ```
 
 ## Newman Report Summary:
