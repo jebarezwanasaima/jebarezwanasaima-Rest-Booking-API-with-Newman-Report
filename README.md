@@ -233,9 +233,12 @@ newman run Jeba_Rezwana_Saima.postman_collection.json -e Jeba_Rezwana_Saima.post
 ```
 
 ## Newman Report Summary:
-![Newman Report Summary](https://github.com/user-attachments/assets/dec68bdb-21d9-439f-b95a-8862cea1f42a)
+![Newman Report Summary](https://github.com/user-attachments/assets/5540c5ab-5c96-43b4-a524-5fcd0a4c6a34)
 
 ![Newman Report Summary](https://github.com/user-attachments/assets/3d5f7e11-ea98-4043-bd02-b9efb98e3f38)
 
-![image](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/0e011c95-b3d2-46e1-952b-07938ee0bfa8)
-![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/e5ae708d-6be9-45e8-8996-06a817f13e9d)
+![Newman Report Summary](https://github.com/user-attachments/assets/552a6d14-f59f-446d-93cb-63c4c4492ec0)
+
+
+![Newman Report Summary](https://github.com/user-attachments/assets/c58882a6-5c02-49ad-bb4b-f431788af480)
+
