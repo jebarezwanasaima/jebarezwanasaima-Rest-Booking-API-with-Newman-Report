@@ -233,7 +233,7 @@ newman run Jeba_Rezwana_Saima.postman_collection.json -e Jeba_Rezwana_Saima.post
 ```
 
 ## Newman Report Summary:
-![Newman Report Summary](https://github.com/user-attachments/assets/5540c5ab-5c96-43b4-a524-5fcd0a4c6a34)
+![Newman Report Summary](https://github.com/user-attachments/assets/1dbe556c-8028-4112-aac7-1ed52d4b77e1)
 ![Newman Report Summary](https://github.com/user-attachments/assets/3d5f7e11-ea98-4043-bd02-b9efb98e3f38)
 ![Newman Report Summary](https://github.com/user-attachments/assets/552a6d14-f59f-446d-93cb-63c4c4492ec0)
 ![Newman Report Summary](https://github.com/user-attachments/assets/c58882a6-5c02-49ad-bb4b-f431788af480)
